@@ -1,0 +1,10 @@
+﻿{
+   "DbName":"FSDB",
+   "IdleTime":5,
+   "Settings":[
+      {
+         "Type":"Person",
+         "PK":"ID"
+      }
+   ]
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FSConfig>
+	<DbName>FSDB</DbName>
+	<IdleTime>5</IdleTime>
+	<Tables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Table>
+			<Type>Person</Type>
+			<PK>ID</PK>
+		</Table>
+	</Tables>
+</FSConfig>
