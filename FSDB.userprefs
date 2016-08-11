@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="iOS/FSDB.iOS.csproj">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FSDB.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0E7F8512-613B-463A-906C-AD39520F7E1D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
