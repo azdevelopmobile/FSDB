@@ -1,5 +1,11 @@
 ﻿<Properties StartupItem="iOS/FSDB.iOS.csproj">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FSDB/FSDB.cs">
+    <Files>
+      <File FileName="FSDB/FSDB.cs" Line="31" Column="1" />
+      <File FileName="FSDB/Db/FSDBCore.cs" Line="350" Column="1" />
+      <File FileName="FSDB/FSConfig.json" Line="7" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

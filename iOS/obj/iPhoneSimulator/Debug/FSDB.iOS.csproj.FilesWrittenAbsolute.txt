@@ -19,3 +19,16 @@
 /Users/Les/Desktop/DB Workspace/DBWorkspace/FSDB/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
 /Users/Les/Desktop/DB Workspace/DBWorkspace/FSDB/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
 /Users/Les/Desktop/DB Workspace/DBWorkspace/FSDB/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/Les/Documents/SlackGithub/FSDB/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Les/Documents/SlackGithub/FSDB/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/Les/Documents/SlackGithub/FSDB/iOS/obj/iPhoneSimulator/Debug/FSDB.iOS.FSConfig.json
+/Users/Les/Documents/SlackGithub/FSDB/iOS/obj/iPhoneSimulator/Debug/FSDB.iOS.FSConfig.xml
+/Users/Les/Documents/SlackGithub/FSDB/iOS/bin/iPhoneSimulator/Debug/FSDB.iOS.exe.mdb
+/Users/Les/Documents/SlackGithub/FSDB/iOS/bin/iPhoneSimulator/Debug/FSDB.iOS.exe
+/Users/Les/Documents/SlackGithub/FSDB/iOS/obj/iPhoneSimulator/Debug/FSDB.iOS.exe
+/Users/Les/Documents/SlackGithub/FSDB/iOS/obj/iPhoneSimulator/Debug/FSDB.iOS.exe.mdb
+/Users/Les/Documents/SlackGithub/FSDB/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/Les/Documents/SlackGithub/FSDB/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/Les/Documents/SlackGithub/FSDB/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/Les/Documents/SlackGithub/FSDB/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/Les/Documents/SlackGithub/FSDB/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll

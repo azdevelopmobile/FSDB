@@ -81,13 +81,14 @@ namespace FSDB
     {
         public App()
         {
-            FSData.Init("data.json");
+            //InitDatabase();
 
             MainPage = new NavigationPage(new TestPage());
         }
 
         protected override void OnStart()
         {
+            InitDatabase();
             // Handle when your app starts
         }
 
@@ -98,7 +99,21 @@ namespace FSDB
 
         protected override void OnResume()
         {
+            InitDatabase();
             // Handle when your app resumes
+        }
+
+        private void InitDatabase()
+        {
+            FSData.Init(new FSConfig()
+            {
+                DbName = "FSDB",
+                IdleTime = 5,
+                Settings = {
+                    new TableSetting() { PK = "ID", Type = "Person" }
+                }
+
+            });
         }
     }
 
